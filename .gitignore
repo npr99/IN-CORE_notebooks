@@ -10,8 +10,12 @@
 [Ww]ork*/
 **/[Ww]ork*/**
 
+BlockGroupData/
+
+
 # Ignore output files
 *.csv
+*.json
 
 # Ignore Shapefiles
 *.dbf
