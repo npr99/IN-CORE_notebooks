@@ -16,6 +16,8 @@ BlockGroupData/
 # Ignore output files
 *.csv
 *.json
+*.pdf
+*.png
 
 # Ignore Shapefiles
 *.dbf
