@@ -18,6 +18,7 @@ BlockGroupData/
 *.json
 *.pdf
 *.png
+*.tif
 
 # Ignore Shapefiles
 *.dbf
